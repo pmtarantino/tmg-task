@@ -1,1 +1,1 @@
-# tmg-task
+# Task for TMG interview
